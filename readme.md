@@ -2,7 +2,7 @@
 
 Este repositório tem como objetivo criar um formulário utilizando React com TypeScript, React Hook Form e Zod. O formulário foi desenvolvido utilizando a ferramenta Vite para inicialização rápida do projeto. O objetivo é fornecer um exemplo e recursos para construir um formulário com validações, transformações de valores inseridos nos campos, uso de field arrays e aplicação do padrão de composição para os componentes do formulário. Um dos campos desse formulário é um campo de upload de arquivo.
 
-![Captura de tela do formulário](/caminho/para/captura-de-tela.png)
+![image](https://github.com/Gabriel-Traldi/react-form-validation/assets/31660832/6ae99383-37c5-45fe-9566-b8999f3e46a2)
 
 ## Visão Geral
 
